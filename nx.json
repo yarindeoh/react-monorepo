@@ -61,5 +61,11 @@
       }
     }
   },
-  "nxCloudAccessToken": "MTliZWUyNDktZmIzYi00MWU2LWIyNTktMzZhYzhmYzcxZTMwfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "MTliZWUyNDktZmIzYi00MWU2LWIyNTktMzZhYzhmYzcxZTMwfHJlYWQtd3JpdGU=",
+  "release": {
+    "version": {
+      "conventionalCommits": true
+    }
+  }
+
 }

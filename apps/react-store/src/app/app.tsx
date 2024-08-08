@@ -8,6 +8,7 @@ export function App() {
   return (
     <StyledApp>
       <div>nx react</div>
+      <p>dkdkkd</p>
     </StyledApp>
   );
 }
