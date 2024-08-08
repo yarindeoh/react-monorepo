@@ -63,9 +63,26 @@
   },
   "nxCloudAccessToken": "MTliZWUyNDktZmIzYi00MWU2LWIyNTktMzZhYzhmYzcxZTMwfHJlYWQtd3JpdGU=",
   "release": {
+    "projects": ["apps/react-store"],
     "version": {
       "conventionalCommits": true
+    },
+    "projectsRelationship": "independent",
+    "changelog": {
+      "projectChangelogs": {
+        "renderOptions": {
+          "authors": true,
+          "mapAuthorsToGitHubUsernames": true,
+          "commitReferences": true,
+          "versionTitleDate": true
+        }
+      }
+    }
+  },
+  "nx-release-publish": {
+    "dependsOn": ["build"],
+    "options": {
+      "packageRoot": "{projectRoot}/dist"
     }
   }
-
 }
