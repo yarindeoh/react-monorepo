@@ -1,3 +1,17 @@
+## 0.1.6 (2024-08-11)
+
+
+### 🩹 Fixes
+
+- **react-store:** check git tags ([f8cff2b](https://github.com/yarindeoh/react-monorepo/commit/f8cff2b))
+
+- **react-store:** check git tags 2 ([3e6fd9c](https://github.com/yarindeoh/react-monorepo/commit/3e6fd9c))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.5 (2024-08-11)
 
 
