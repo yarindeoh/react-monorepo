@@ -7,6 +7,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
+      <h1>Welcome</h1>
       <div>nx react3</div>
     </StyledApp>
   );
