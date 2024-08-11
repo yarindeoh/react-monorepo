@@ -1,3 +1,17 @@
+## 0.1.4 (2024-08-11)
+
+
+### 🩹 Fixes
+
+- **react-store:** fix test ([b9b6677](https://github.com/yarindeoh/react-monorepo/commit/b9b6677))
+
+- **react-store:** fix e2e ([f0d15bb](https://github.com/yarindeoh/react-monorepo/commit/f0d15bb))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.3 (2024-08-11)
 
 
