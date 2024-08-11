@@ -1,3 +1,15 @@
+## 0.1.3 (2024-08-11)
+
+
+### 🩹 Fixes
+
+- **react-store:** testing release ([8a2523d](https://github.com/yarindeoh/react-monorepo/commit/8a2523d))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.2 (2024-08-08)
 
 
