@@ -70,6 +70,7 @@
     "projectsRelationship": "independent",
     "changelog": {
       "projectChangelogs": {
+        "createRelease": "github",
         "renderOptions": {
           "authors": true,
           "mapAuthorsToGitHubUsernames": true,
