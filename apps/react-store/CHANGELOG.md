@@ -1,3 +1,15 @@
+## 0.1.5 (2024-08-11)
+
+
+### 🩹 Fixes
+
+- **react-store:** bump version ([8edd082](https://github.com/yarindeoh/react-monorepo/commit/8edd082))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.4 (2024-08-11)
 
 
