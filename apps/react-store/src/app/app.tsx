@@ -7,7 +7,7 @@ const StyledApp = styled.div`
 export function App() {
   return (
     <StyledApp>
-      <div>nx react2</div>
+      <div>nx react3</div>
     </StyledApp>
   );
 }
