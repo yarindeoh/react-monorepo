@@ -44,4 +44,5 @@ jobs:
         with:
           fetch-depth: 0
 
-      run: npx nx release --skip-publish
+      
+      - run: npx nx release --skip-publish
