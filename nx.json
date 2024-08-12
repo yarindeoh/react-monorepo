@@ -67,6 +67,12 @@
     "version": {
       "conventionalCommits": true
     },
-    "projectsRelationship": "independent"
+    "projectsRelationship": "independent",
+    "changelog": {
+      "projectChangelogs": {
+        "file": false,
+        "createRelease": "github"
+      }
+    }
   }
 }
