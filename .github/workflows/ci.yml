@@ -45,6 +45,11 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.PAT }}
+      
+      - name: Git login
+        run: |
+          git config --global user.email "yarindeoh@gmail.com"
+          git config --global user.name "Yarin Dekel"
 
       - uses: actions/setup-node@v4
         with:
