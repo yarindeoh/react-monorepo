@@ -1,3 +1,25 @@
+## 0.1.7 (2024-08-12)
+
+
+### 🩹 Fixes
+
+- **react-store:** check git tags and publish ([d6505f7](https://github.com/yarindeoh/react-monorepo/commit/d6505f7))
+
+- **react-store:** check git tags and publish 2 ([2ba2d3f](https://github.com/yarindeoh/react-monorepo/commit/2ba2d3f))
+
+- **react-store:** check git tags and publish 3 ([6472efa](https://github.com/yarindeoh/react-monorepo/commit/6472efa))
+
+- **react-store:** check git tags and publish 4 ([2ac965b](https://github.com/yarindeoh/react-monorepo/commit/2ac965b))
+
+- **react-store:** check git tags and publish with pat ([117d8fa](https://github.com/yarindeoh/react-monorepo/commit/117d8fa))
+
+- **react-store:** check git tags and publish with login ([9238ddb](https://github.com/yarindeoh/react-monorepo/commit/9238ddb))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.6 (2024-08-11)
 
 
