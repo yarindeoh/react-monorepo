@@ -8,7 +8,7 @@ export function App() {
   return (
     <StyledApp>
       <h1>Welcome</h1>
-      <div>nx react17</div>
+      <div>nx react18</div>
     </StyledApp>
   );
 }
