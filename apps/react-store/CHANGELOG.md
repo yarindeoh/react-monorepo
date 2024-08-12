@@ -1,3 +1,15 @@
+## 0.1.11 (2024-08-12)
+
+
+### 🩹 Fixes
+
+- **react-store:** test publish 5 ([fc517b1](https://github.com/yarindeoh/react-monorepo/commit/fc517b1))
+
+
+### ❤️  Thank You
+
+- yarindeohcld
+
 ## 0.1.10 (2024-08-12)
 
 
