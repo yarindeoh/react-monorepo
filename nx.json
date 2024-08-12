@@ -67,17 +67,6 @@
     "version": {
       "conventionalCommits": true
     },
-    "projectsRelationship": "independent",
-    "changelog": {
-      "projectChangelogs": {
-        "createRelease": "github",
-        "renderOptions": {
-          "authors": true,
-          "mapAuthorsToGitHubUsernames": true,
-          "commitReferences": true,
-          "versionTitleDate": true
-        }
-      }
-    }
+    "projectsRelationship": "independent"
   }
 }
